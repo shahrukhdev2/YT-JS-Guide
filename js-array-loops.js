@@ -17,10 +17,11 @@ const filterOut5 = arr.filter((item) => item !== 5);
 
 // console.log({ filterOut5 });
 
-// check for odd numbers
+// in Youtube video i mistakenly used odd number.
+// check for Even numbers
 // every
 
-const checkOddNumber = arr.every((item) => item % 2 === 0);
+const checkEvenNumber = arr.every((item) => item % 2 === 0);
 
 // console.log({ checkOddNumber });
 
